@@ -1,0 +1,12 @@
+[submodule "Gradient-Descent-prediction-ML-basics"]
+	path = Gradient-Descent-prediction-ML-basics
+	url = https://github.com/theooprea/Gradient-Descent-prediction-ML-basics
+[submodule "Householder-prediction-Machine-Learning-Basics-"]
+	path = Householder-prediction-Machine-Learning-Basics-
+	url = https://github.com/theooprea/Householder-prediction-Machine-Learning-Basics-
+[submodule "K-Means-Clustering"]
+	path = K-Means-Clustering
+	url = https://github.com/theooprea/K-Means-Clustering
+[submodule "PageRank"]
+	path = PageRank
+	url = https://github.com/theooprea/PageRank

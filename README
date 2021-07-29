@@ -1,0 +1,15 @@
+Data Analysis and Machine Learning
+
+Implementation of a few data algorithms as part of university project.
+
+Implemented:
+- a faster variation of the K Means Clustering algorithm, improvement
+that was made possible using vectorizations.
+- Page Rank algorithm, the algorithm used by Google to rank web pages based on
+frequency of visiting and how pages link to one another (connectivity)
+- an algorithm for cat recognision in two steps, learning from a large data set
+of cat pictures and testing the performance of the algorithm on a large data
+set of various animals pictures. An accuracy of 85% was achieved using 2
+different numerical methods, Householder and Gradient Descent.
+
+
